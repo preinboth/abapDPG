@@ -1,0 +1,1 @@
+# Kommando (command pattern)

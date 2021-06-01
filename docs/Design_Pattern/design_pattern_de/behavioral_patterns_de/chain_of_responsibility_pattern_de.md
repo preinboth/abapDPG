@@ -1,0 +1,1 @@
+# Zuständigkeitskette (chain of responsibility pattern)

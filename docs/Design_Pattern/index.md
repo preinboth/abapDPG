@@ -26,13 +26,13 @@ img[src$="centerme"] {
   <tr>
 	<td> 	
 		<figure>	
-			<img src="../img/Flags/Flag_de.jpg" alt="Entwurfsmuster" style="width: 250px"; padding="50px">
+			<img src="../img/flags/flag_de.jpg" alt="Entwurfsmuster" style="width: 250px"; padding="50px">
 			<figcaption>Entwurfsmuster</figcaption>
 		</figure>
 	</td>
 	<td> 
 		<figure>
-		<img src="../img/Flags/Flag_uk.jpg" alt="Design Pattern" style="width: 250px"; padding="50px">
+		<img src="../img/flags/flag_uk.jpg" alt="Design Pattern" style="width: 250px"; padding="50px">
 		<figcaption>Design Pattern</figcaption>
 		</figure>
 	</td>
@@ -41,7 +41,7 @@ img[src$="centerme"] {
 
 
 
-![Entwurfsmuster](../img/Flags/Flag_de.jpg)
+![Entwurfsmuster](../img/flags/flag_de.jpg)
 [Entwurfsmuster](design_pattern_de/design_pattern_de.md)
 [Design Pattern](design_pattern_de/design_pattern_en.md)
 

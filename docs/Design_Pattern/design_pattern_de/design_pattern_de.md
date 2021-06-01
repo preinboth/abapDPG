@@ -5,14 +5,15 @@
 Erzeugungsmuster abstrahieren Objekterzeugungsprozesse. Klassenmuster nutzen dabei Vererbung, um die Klasse des zu erzeugenden Objekts zu variieren. Objektmuster delegieren die Objekterzeugung an andere Objekte.
 
 ### Klassenmuster
-*   [Fabrikmethode (factory method)](creational_patterns_de/Factory_Method_de.md)
+
+*   [Fabrikmethode (factory method)](creational_patterns_de/factory_method_de.md)
 
 ### Objektmuster
 
-*   [Abstrakte Fabrik (abstract factory)](creational_patterns_de/Abstract_Factory_Pattern_de.md)
-*   [Einzelstück (singleton)](creational_patterns_de/Singleton_Pattern_de.md)
-*   [Erbauer (builder)](creational_patterns_de/Builder_Pattern_de.md)
-*   [Prototyp (prototype)](creational_patterns_de/Prototype_Pattern_de.md)
+*   [Abstrakte Fabrik (abstract factory)](creational_patterns_de/abstract_factory_pattern_de.md)
+*   [Einzelstück (singleton)](creational_patterns_de/singleton_pattern_de.md)
+*   [Erbauer (builder)](creational_patterns_de/builder_pattern_de.md)
+*   [Prototyp (prototype)](creational_patterns_de/prototype_pattern_de.md)
 
 ## Strukturmuster (Structural Patterns)
 
@@ -20,17 +21,17 @@ Strukturmuster fassen Klassen und Objekte zu größeren Strukturen zusammen. Klass
 
 ### Klassenmuster
 
-*   [Adapter  (adapter) (Adapter mit Vererbung oder Klassenadapter)](design_pattern_de/)
+*   [Adapter  (adapter) (Adapter mit Vererbung oder Klassenadapter)](structural_patterns_de/adapter_pattern_de.md)
 
 ### Objektmuster
 
-*   [Adapter  (adapter) (Adapter mit Assoziation oder Objektadapter)](design_pattern_de/)
-*   [Brücke (bridge, handle/body)](design_pattern_de/)
-*   [Dekorierer (decorator)](design_pattern_de/)
-*   [Fassade (façade)](design_pattern_de/)
-*   [Fliegengewicht (flyweight)](design_pattern_de/)
-*   [Kompositum (composite)](design_pattern_de/)
-*   [Stellvertreter (proxy, surrogate)](design_pattern_de/)
+*   [Adapter  (adapter) (Adapter mit Assoziation oder Objektadapter)](structural_patterns_de/)
+*   [Brücke (bridge, handle/body)](structural_patterns_de/bridge_pattern_de.md)
+*   [Dekorierer (decorator)](structural_patterns_de/decorator_pattern_de.md)
+*   [Fassade (façade)](structural_patterns_de/facade_pattern_de.md)
+*   [Fliegengewicht (flyweight)](structural_patterns_de/flyweight_pattern_de.md)
+*   [Kompositum (composite)](structural_patterns_de/composite_pattern_de.md)
+*   [Stellvertreter (proxy, surrogate)](structural_patterns_de/proxy_pattern_de.md)
 
 ## Verhaltensmuster (Behavioral Patterns)
 
@@ -39,12 +40,12 @@ Die Verhaltensmuster können in verschiedene Gruppen unterteilt werden. Bei den f
 
 ### Klassenmuster
 
-*   [Interpreter (interpreter)](behavioral_patterns_de/Interpreter_de.md)
+*   [Interpreter (interpreter)](behavioral_patterns_de/interpreter_de.md)
 *   [Schablonenmethode (template method)](behavioral_patterns_de/)
 
 ### Objektmuster
 
-*   [Beobachter (observer, dependents, publish-subscribe, listener)](behavioral_patterns_de/Observer_de.md)
+*   [Beobachter (observer, dependents, publish-subscribe, listener)](behavioral_patterns_de/observer_de.md)
 *   [Besucher (visitor)](design_pattern_de/)
 *   [Iterator (iterator, cursor)](design_pattern_de/)
 *   [Kommando (Befehl, command, action, transaction)](design_pattern_de/)
